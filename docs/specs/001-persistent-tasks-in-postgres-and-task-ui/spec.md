@@ -1,7 +1,7 @@
 ---
 spec_id: 001-persistent-tasks-in-postgres-and-task-ui
 title: Persistent tasks in Postgres and task UI
-status: draft
+status: approved
 priority: P1
 shape: gitops-app
 ---
@@ -70,3 +70,4 @@ As a person using the taskboard, I want to create a task with a title and an opt
 
 - 2026-11-15 created
 - 2026-11-15 amended: open question on in-memory tasks answered (accept the loss, the database starts empty), folded into the non-goals; no criteria changed
+- 2026-11-15 approved
